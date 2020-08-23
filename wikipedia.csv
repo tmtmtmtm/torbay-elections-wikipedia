@@ -1,0 +1,60 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q19873325,Kevin Foster,Q9626,Conservative Party (UK),29863,Q30173038,General election 2019,1
+,Lee Howgate,Q9624,Liberal Democrats (UK),12114,Q30173038,General election 2019,2
+,Michele Middleditch,Q9630,Labour Party (UK),6562,Q30173038,General election 2019,3
+,Sam Moss,Q9669,Green Party of England and Wales,1235,Q30173038,General election 2019,4
+,James Channer,Q327591,Independent (politician),648,Q30173038,General election 2019,5
+Q19873325,Kevin Foster,Q9626,Conservative Party (UK),27141,Q25052149,General election 2017,1
+,Deborah Brewer,Q9624,Liberal Democrats (UK),12858,Q25052149,General election 2017,2
+,Paul Raybould,Q9630,Labour Party (UK),9310,Q25052149,General election 2017,3
+,Tony McIntyre,Q10647,UK Independence Party,1213,Q25052149,General election 2017,4
+,Sam Moss,Q9669,Green Party of England and Wales,652,Q25052149,General election 2017,5
+Q19873325,Kevin Foster,Q9626,Conservative Party (UK),19551,Q3586935,General election 2015,1
+Q479047,Adrian Sanders,Q9624,Liberal Democrats (UK),16265,Q3586935,General election 2015,2
+,Anthony McIntyre,Q10647,UK Independence Party,6540,Q3586935,General election 2015,3
+,Su Maddock,Q9630,Labour Party (UK),4166,Q3586935,General election 2015,4
+,Paula Hermes,Q9669,Green Party of England and Wales,1557,Q3586935,General election 2015,5
+Q479047,Adrian Sanders,Q9624,Liberal Democrats (UK),23126,Q215622,General election 2010,1
+,Marcus Wood,Q9626,Conservative Party (UK),19048,Q215622,General election 2010,2
+,David Pedrick-Friend,Q9630,Labour Party (UK),3231,Q215622,General election 2010,3
+,Julien Parrott,Q10647,UK Independence Party,2628,Q215622,General election 2010,4
+,Ann Conway,Q161269,British National Party,709,Q215622,General election 2010,5
+,Sam Moss,Q9669,Green Party of England and Wales,468,Q215622,General election 2010,6
+Q479047,Adrian Sanders,Q9624,Liberal Democrats (UK),19317,Q428598,General election 2005,1
+,Marcus Wood,Q9626,Conservative Party (UK),17288,Q428598,General election 2005,2
+,David Pedrick-Friend,Q9630,Labour Party (UK),6972,Q428598,General election 2005,3
+Q4405632,Graham Booth,Q10647,UK Independence Party,3726,Q428598,General election 2005,4
+Q479047,Adrian Sanders,Q9624,Liberal Democrats (UK),24015,Q590740,General election 2001,1
+,Christian Sweeting,Q9626,Conservative Party (UK),17307,Q590740,General election 2001,2
+,John MacKay,Q9630,Labour Party (UK),4484,Q590740,General election 2001,3
+Q4405632,Graham Booth,Q10647,UK Independence Party,1512,Q590740,General election 2001,4
+,Pam Neale,Q327591,Independent (politician),251,Q590740,General election 2001,5
+Q479047,Adrian Sanders,Q9624,Liberal Democrats (UK),21094,Q918503,General election 1997,1
+Q3341374,Rupert Allason,Q9626,Conservative Party (UK),21082,Q918503,General election 1997,2
+,Michael Morey,Q9630,Labour Party (UK),7923,Q918503,General election 1997,3
+Q4405632,Graham Booth,Q10647,UK Independence Party,1962,Q918503,General election 1997,4
+,Bruce Cowling,Q3360801,"Liberal Party (UK, 1989)",1161,Q918503,General election 1997,5
+,Paul Wild,Q6739060,Vote For Yourself Rainbow Dream Ticket,100,Q918503,General election 1997,6
+Q3341374,Rupert Allason,Q9626,Conservative Party (UK),28624,Q543609,General election 1992,1
+Q479047,Adrian Sanders,Q9624,Liberal Democrats (UK),22837,Q543609,General election 1992,2
+Q336112,Peter Truscott,Q9630,Labour Party (UK),5503,Q543609,General election 1992,3
+,Robert Jones,Q158093,National Front (UK),268,Q543609,General election 1992,4
+,Alison Thomas,Q491782,Natural Law Party,157,Q543609,General election 1992,5
+Q3341374,Rupert Allason,Q9626,Conservative Party (UK),29029,Q918472,General election 1987,1
+Q7025143,Nicholas Bye,Q622441,Liberal Party (UK),20209,Q918472,General election 1987,2
+,Gerald Taylor,Q9630,Labour Party (UK),4538,Q918472,General election 1987,3
+Q5496992,Frederic Bennett,Q9626,Conservative Party (UK),25721,Q918466,General election 1983,1
+,Michael Mitchell,Q622441,Liberal Party (UK),19166,Q918466,General election 1983,2
+,Philip Rackley,Q9630,Labour Party (UK),3521,Q918466,General election 1983,3
+,Anne Murray,Q327591,Independent (politician),500,Q918466,General election 1983,4
+Q5496992,Frederic Bennett,Q9626,Conservative Party (UK),36099,Q918450,General election 1979,1
+,Michael Mitchell,Q622441,Liberal Party (UK),15231,Q918450,General election 1979,2
+,Elaine Fear,Q9630,Labour Party (UK),12919,Q918450,General election 1979,3
+,David Abrahams,Q15980875,Ecology Party (UK),1161,Q918450,General election 1979,4
+,June Spry,Q158093,National Front (UK),647,Q918450,General election 1979,5
+Q5496992,Frederic Bennett,Q9626,Conservative Party (UK),30208,Q918508,General election October 1974,1
+,John Goss,Q622441,Liberal Party (UK),17770,Q918508,General election October 1974,2
+,Jack Tench,Q9630,Labour Party (UK),14441,Q918508,General election October 1974,3
+Q5496992,Frederic Bennett,Q9626,Conservative Party (UK),33163,Q119524,General election February 1974,1
+,Bridget Trethewey,Q622441,Liberal Party (UK),20755,Q119524,General election February 1974,2
+,Jack Tench,Q9630,Labour Party (UK),14389,Q119524,General election February 1974,3
